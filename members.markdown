@@ -9,5 +9,5 @@ permalink: /members/
 title: JUG members
 ---
 
-
-Qui ospiteremo l'elenco dei membri del JUG che ne facciano richiesta con una piccola biografia
+* Massimo Caliman  (coordinatore e cofondatore)
+* Cristian Ghezzi  (coordinatore)
