@@ -28,7 +28,7 @@ Il gruppo offre anche un [gruppo di discussione online](https://groups.google.co
 
 Il gruppo organizza anche eventi sociali, come nerd-pizza, per permettere agli appassionati di Java di conoscersi e divertirsi insieme.
 
-Siamo presenti anche su [Linkedin](https://www.linkedin.com/groups/23810/)
+Siamo presenti anche su [Linkedin](https://www.linkedin.com/groups/23810/) e su [github](https://github.com/juggenova)
 
 ## Come partecipare
 
