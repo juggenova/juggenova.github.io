@@ -12,3 +12,4 @@ title: JUG members
 * Massimo Caliman  (coordinatore e cofondatore)
 * Cristian Ghezzi  (coordinatore)
 * Fabio Bonfante
+* Matias Alberto Ruiz Holgado
