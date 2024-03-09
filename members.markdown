@@ -9,7 +9,7 @@ permalink: /members/
 title: JUG members
 ---
 
-* Massimo Caliman  (coordinatore e cofondatore)
+* [Massimo Caliman](/members/mcaliman)  (coordinatore e cofondatore)
 * Cristian Ghezzi  (coordinatore)
 * Fabio Bonfante
 * Matias Alberto Ruiz Holgado
