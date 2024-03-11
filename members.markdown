@@ -13,3 +13,4 @@ title: JUG members
 * Cristian Ghezzi  (coordinatore)
 * Fabio Bonfante
 * Matias Alberto Ruiz Holgado
+* Dario Bosi
