@@ -30,7 +30,7 @@ plugins:
   - jekyll-feed
 logo: jug-button.gif  
 
-# google_analytics: G-KLMWZMGE40
+google_analytics: G-KLMWZMGE40
 
 # Exclude from processing.
 # The following items will not be processed, by default.
