@@ -1,6 +1,8 @@
 <head>
+{%- if site.google_analytics -%}
 
 <!-- Google tag (gtag.js) -->
+
 <script async src="https://www.googletagmanager.com/gtag/js?id=G-KLMWZMGE40"></script>
 <script>
   window.dataLayer = window.dataLayer || [];
@@ -20,7 +22,9 @@
   gtag('config', 'GA_TRACKING_ID', { 'anonymize_ip': true });
 
  
-</script>  
+</script> 
+
+{%- endif %}
 
   <meta charset="utf-8">
   <meta http-equiv="X-UA-Compatible" content="IE=edge">
