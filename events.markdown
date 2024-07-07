@@ -6,7 +6,7 @@ layout: home
 lang: it
 ref: events
 permalink: /events/
-title: Eventi dei JUG
+title: Eventi del JUG
 ---
 
 * 07/06/2024 Introduction to Gradle from build scripts to plugins (Cristian Ghezzi)
