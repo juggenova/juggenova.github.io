@@ -29,3 +29,10 @@ title: Eventi dei JUG
 * 06/03/2015 Drools (Mario Fusco)
 * 18/11/2014 Activiti BMP (Giampiero Granatella)
 * 09/09/2014 JMeter Per il performance test (Emanuele Ricci)
+* 10/06/2014 REST con Jersey (Fabio Bonfante)
+* 15/04/2014 Java 8 
+* 18/02/2014 AngularJS (Carlo Bonamico)
+* 28/05/2013 Sviluppare applicazioni Android (Paolo Montaldo)
+* 26/03/2013 Enterprise Integration Patterns con Apache Camel (Andrea Torino Rodriguez)
+* 29/01/2013 Come Incorporare un Interprete Groovy in un Applicativo Java (Paolo Predonzani)
+* 20/04/2011 DCI – Data, Context and Interaction (Fabrizio Giudici)
