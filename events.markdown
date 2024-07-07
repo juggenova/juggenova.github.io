@@ -14,7 +14,8 @@ title: Eventi dei JUG
 * 26/01/2024 A Comprehensive Review of E-R Models Across Industries: Unveiling the Value of Len Silverston's "The Data Model Resource Book" Volumes 1, 2, and 3 (Massimo Caliman)
 * 26/01/2024 Converting Excel Applications to Pseudocode and Clojure: Reverse Engineering, Manual Techniques, Automation (Massimo Caliman)
 * 11/03/2020 Apache Kafka (Danilo Paissan)
-​* 20/01/2020 Kotlin (Andrea De Gaetano)
+​
+* 20/01/2020 Kotlin (Andrea De Gaetano)
 * 15/02/2017 OrientDB (Roberto Franchini)
 * 21/12/2016 Dark Microservices (Andrea Rodriguez)
 * 16/11/2016 Microservices (Giampiero Granatella)
