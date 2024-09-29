@@ -5,7 +5,7 @@
 layout: home
 ---
 
-
+[english version](index_en.markdown)
 
 Il Java User Group di Genova (JUG Genova) è un gruppo di appassionati di Java e di linguaggi JVM che si riunisce regolarmente per condividere esperienze, conoscenze e competenze.
 
