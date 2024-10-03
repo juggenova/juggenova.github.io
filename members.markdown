@@ -10,7 +10,7 @@ title: JUG members
 ---
 
 * [Massimo Caliman](/members/mcaliman)  (coordinatore e cofondatore)
-* Cristian Ghezzi  (coordinatore)
+* [Cristian Ghezzi](/members/cristian.ghezzi)  (coordinatore)
 * Fabio Bonfante
 * Matias Alberto Ruiz Holgado
 * Dario Bosi
