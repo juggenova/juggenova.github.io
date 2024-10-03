@@ -5,7 +5,7 @@
 layout: home
 lang: it
 ref: members
-permalink: /members/cristian.ghezzi
+permalink: /members/cristianghezzi
 title: Cristian Ghezzi
 ---
 
