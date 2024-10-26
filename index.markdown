@@ -5,12 +5,6 @@
 layout: home
 ---
 
->JUG Genova Meeting 25/10/2024 18:30
-Evento in presenza.
-"Practical Functional Programming in Java" 
-Presenta: [Fabio Bonfante](https://www.linkedin.com/in/bonfantefabio/)
-La partecipazione in presenza è gratuita e libera, ma è OBBLIGATORIA la registrazione su: [https://juggenova20241025.eventbrite.it](https://juggenova20241025.eventbrite.it)
-Come al solito si ringrazia [Manydesigns Srl](https://manydesigns.com/) per la location 
 
 
 [english version](index_en.markdown)
