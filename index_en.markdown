@@ -22,7 +22,7 @@ The objectives of JUG Genova are:
 
 The group also organises social events, to allow Java enthusiasts to get to know each other and have fun together.
 
-We are also present on [Linkedin](https://www.linkedin.com/groups/23810/) and on [github](https://github.com/juggenova)
+We are also present on [Linkedin](https://www.linkedin.com/groups/23810/) and  [Github](https://github.com/juggenova)
 
 ## How to participate
 
