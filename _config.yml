@@ -30,6 +30,17 @@ plugins:
   - jekyll-feed
 logo: jug-button.gif  
 
+permalink: /:title/
+
+defaults:
+  # posts defaults
+  - scope:
+      path: "_posts"
+      type: posts
+    values:
+      layout: post
+      share: false
+
 # google_analytics: G-KLMWZMGE40
 
 # Exclude from processing.
