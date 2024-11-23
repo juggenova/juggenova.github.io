@@ -6,4 +6,4 @@ url: https://juggenova.wordpress.com/2014/06/13/angularjs/
 published: false 
 ---
 
-Ecco le slide della presentazione di Martedì 18/02/2014: La presentazione in HTML http://carlobonamico.github.io/angularjs-future-web-development-slides/ I sorgenti: https://github.com/carlobonamico/angularjs-future-web-development-slides Video http://video.html.it/carlo-bonamico-angular-js/ Share this: Facebook X Like Loading... Related This entry was posted on Friday, June 13th, 2014 at 4:37 pm and is filed under meetings, presentations. You can follow any responses to this entry through the RSS 2.0 feed. You can leave a response, or trackback from your own site. Post navigation « Previous Post Next Post »
+Ecco le slide della presentazione di Martedì 18/02/2014: La presentazione in HTML http://carlobonamico.github.io/angularjs-future-web-development-slides/ I sorgenti: https://github.com/carlobonamico/angularjs-future-web-development-slides Video http://video.html.it/carlo-bonamico-angular-js/ 
