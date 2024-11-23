@@ -6,4 +6,4 @@ url: https://juggenova.wordpress.com/2007/10/10/javaday-torino-20102007/
 published: false 
 ---
 
-A number of JUG members will be joining the Javaday 2007 in Torino, both attending the numerous sessions and giving presentations on Continuous Integration and Model Driven frameworks. See you there! Share this: Facebook X Like Loading... Related This entry was posted on Wednesday, October 10th, 2007 at 9:23 am and is filed under events. You can follow any responses to this entry through the RSS 2.0 feed. You can leave a response, or trackback from your own site. Post navigation « Previous Post Next Post »
+A number of JUG members will be joining the Javaday 2007 in Torino, both attending the numerous sessions and giving presentations on Continuous Integration and Model Driven frameworks. See you there! 
