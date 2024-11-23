@@ -1,0 +1,9 @@
+---
+layout: post
+title: "Javaday Roma 2010!"
+date: 2010-01-07
+url: https://juggenova.wordpress.com/2010/01/07/javaday-roma-2010/
+published: false 
+---
+
+After the huge success of the 2009 edition, with more than 1300 participants and lots of high quality technical talks, THE Italian event for the Java community is back. Take note: the event will take place on the 30th of January at the University Roma III. For all details see http://roma.javaday.it/javaday2010 JUG Genova members will contribute with several technical talks 🙂 – stay tuned for further updates… Share this: Facebook X Like Loading... Related This entry was posted on Thursday, January 7th, 2010 at 9:50 pm and is filed under events. You can follow any responses to this entry through the RSS 2.0 feed. You can leave a response, or trackback from your own site. Post navigation « Previous Post Next Post »

@@ -1,0 +1,9 @@
+---
+layout: post
+title: "NetBeans Demo Camp @ JUG Genova – 25/11/2008"
+date: 2008-10-20
+url: https://juggenova.wordpress.com/2008/10/20/netbeans-demo-camp-jug-genova-25112008/
+published: false 
+---
+
+In collaboration with Sun, the Genova Java User Groups organizes a special event to celebrate NetBeans IDE’s tenth birthday. The NetBeans Demo Camp will take place WHEN: tuesday 25/11/2008, from 6.30 pm to 9.30 pm WHERE: location in central Genova (to be announced here in a short time) WHAT: a interactive presentation (with lots of live demos) of the NetBeans 6.5 latest features and of a range of related tools and technologies, including NetBeans 6.5 by Fabrizio Giudici Integrating JavaFX with Java by Giampaolo Melis of MoteNav fame more NetBeans demos by JUGGenova Participation is free to all; however, as we are expecting a larger audience this time, we do require everyone to register as soon as possible (also to help us identify a suitable venue) on http://jugevents.jugpadova.it/jugevents/event/show.html?id=9123 To receive updates on the event visit http://juggenova.net http://jugevents.jugpadova.it/jugevents/event/show.html?id=9123 http://groups.google.com/group/jug-genova Share this: Facebook X Like Loading... Related This entry was posted on Monday, October 20th, 2008 at 3:35 pm and is filed under events. You can follow any responses to this entry through the RSS 2.0 feed. You can leave a response, or trackback from your own site. Post navigation « Previous Post Next Post »
