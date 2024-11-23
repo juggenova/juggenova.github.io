@@ -1,0 +1,19 @@
+---
+layout: post
+title: "Genova JUG @ DIST – 18/9/2007"
+date: 2007-09-04
+url: https://juggenova.wordpress.com/2007/09/04/genova-jug-dist-1892007/
+published: true 
+---
+
+Il prossimo meeting del Java User Group genovese si terrà martedì 18 settembre ore 18.30 presso il DIST in Via Opera Pia 13 (zona Albaro)  
+presenteranno: TBD – speaker annunciati a breve Per la pizza post-meeting cerchiamo di postare un aggiornamento appena possibile. 
+
+Per registrarsi potete usare il nuovo servizio creato dal JUG Padova 
+* [http://www.jugevents.org/jugevents/event/registration.form?event.id=133](http://www.jugevents.org/jugevents/event/registration.form?event.id=133) 
+
+Per maggiori info e aggiornamenti: 
+* [http://upcoming.yahoo.com/event/261003](http://upcoming.yahoo.com/event/261003) 
+* [http://www.jugevents.org/jugevents/event/show.html?id=133](http://www.jugevents.org/jugevents/event/show.html?id=133)
+
+

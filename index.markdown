@@ -5,7 +5,7 @@
 layout: home
 ---
 
-
+> Stiamo migrando qui i contenuti del vecchio blog juggenova.wordpress.com !
 
 [english version](index_en.markdown)
 
