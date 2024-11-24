@@ -1,9 +1,0 @@
----
-layout: post
-title: "Java 8"
-date: 2014-06-13
-url: https://juggenova.wordpress.com/2014/06/13/java-8/
-published: false 
----
-
-Ecco le slide della presentazione di Martedì 15/04/2014: 

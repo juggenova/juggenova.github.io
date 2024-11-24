@@ -1,0 +1,11 @@
+---
+layout: post
+title: "Java 8"
+date: 2014-06-13
+url: https://juggenova.wordpress.com/2014/06/13/java-8/
+published: true 
+---
+
+Ecco le slide della presentazione di Martedì 15/04/2014: 
+
+<iframe src="//www.slideshare.net/slideshow/embed_code/key/Mmvp2I4yqrhZTP" width="595" height="485" frameborder="0" marginwidth="0" marginheight="0" scrolling="no" style="border:1px solid #CCC; border-width:1px; margin-bottom:5px; max-width: 100%;" allowfullscreen> </iframe> <div style="margin-bottom:5px"> <strong> <a href="//www.slideshare.net/slideshow/java-8-35685487/35685487" title="Java 8" target="_blank">Java 8</a> </strong> from <strong><a href="//www.slideshare.net/alessiostalla" target="_blank">alessiostalla</a></strong> </div>
