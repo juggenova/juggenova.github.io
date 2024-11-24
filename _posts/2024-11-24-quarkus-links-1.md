@@ -6,7 +6,7 @@ category: ""
 comments: false
 share: false
 permalink: quarkus-link-1
-category: Memories
+category: Quarkus
 date: 2024-11-24
 modified: 2024-11-24
 published: true
