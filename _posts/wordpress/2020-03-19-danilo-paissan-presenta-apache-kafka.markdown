@@ -3,7 +3,7 @@ layout: post
 title: "Danilo Paissan presenta Apache Kafka"
 date: 2020-03-19
 url: https://juggenova.wordpress.com/2020/03/19/danilo-paissan-presenta-apache-kafka/
-published: false 
+published: true 
 ---
 
 JUG Genova meetings ai tempi del corona virus. Danilo Paissan sta presentando 
