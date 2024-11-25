@@ -6,7 +6,7 @@ url: https://juggenova.wordpress.com/2008/02/13/java-ide-day-2008/
 published: true 
 ---
 
-Grazie alla collaborazione con il JUG Roma, il [JUG Genova](www.jugroma.it) organizza un evento internazionale (prima assoluta in Italia) aperto a tutta la Java Community italiana in cui esperti internazionali, sviluppatori e studenti si confrontano sullo stato dell’ arte e il futuro degli ambienti di sviluppo Java. 
+Grazie alla collaborazione con il [JUG Roma](www.jugroma.it), il JUG Genova organizza un evento internazionale (prima assoluta in Italia) aperto a tutta la Java Community italiana in cui esperti internazionali, sviluppatori e studenti si confrontano sullo stato dell’ arte e il futuro degli ambienti di sviluppo Java. 
 
 L’evento avrà luogo 
 * a Genova Lunedi’ 10 Marzo pomeriggio presso la Facoltà di Ingegneria,
