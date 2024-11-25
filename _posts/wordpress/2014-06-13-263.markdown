@@ -1,9 +1,0 @@
----
-layout: post
-title: "REST con Jersey"
-date: 2014-06-13
-url: https://juggenova.wordpress.com/2014/06/13/263/
-published: false 
----
-
-Ecco le slide della presentazione di martedì 10/06/2014: REPOSITORY CON ESEMPI https://bitbucket.org/bfx/jersey-jug 
