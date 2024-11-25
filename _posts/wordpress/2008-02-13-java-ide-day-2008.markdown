@@ -1,9 +1,0 @@
----
-layout: post
-title: "Java IDE day 2008!"
-date: 2008-02-13
-url: https://juggenova.wordpress.com/2008/02/13/java-ide-day-2008/
-published: false 
----
-
-Grazie alla collaborazione con il JUG Roma, il JUG Genova organizza un evento internazionale (prima assoluta in Italia) aperto a tutta la Java Community italiana in cui esperti internazionali, sviluppatori e studenti si confrontano sullo stato dell’ arte e il futuro degli ambienti di sviluppo Java. L’evento avrà luogo a Genova Lunedi’ 10 Marzo pomeriggio presso la Facoltà di Ingegneria, a Roma Mercoledi’ 12 Marzo pomeriggio presso la Facoltà di Ingegneria dell’ Università Roma TRE Interverranno speaker internazionali tra cui Roman Strobl (Sun Microsystems) Paolo Ramasso (Oracle) Vaclav Pech (JetBrains) La partecipazione è gratuita e aperta a tutti. E’ richiesta però la registrazione sul sito http://www.ideday.org, dove sono riportate tutte le informazioni pratiche relative all’ evento. For more information: Contact us at juggenova AT gmail DOT com Il Java IDE day è supportato da Eptamedia s.r.l., Manydesigns s.r.l., Finsa Consulting s.r.l., NIS s.r.l. e K-Tech s.r.l. 
