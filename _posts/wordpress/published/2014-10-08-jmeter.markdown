@@ -1,0 +1,11 @@
+---
+layout: post
+title: "JMeter"
+date: 2014-10-08
+url: https://juggenova.wordpress.com/2014/10/08/jmeter/
+published: true 
+---
+
+Ecco le slide della presentazione di martedì 09/09/2014: JMeter Per il performance test di Emanuele Ricci 
+
+<iframe src="//www.slideshare.net/slideshow/embed_code/key/qN8BGPnIzQXbA7" width="595" height="485" frameborder="0" marginwidth="0" marginheight="0" scrolling="no" style="border:1px solid #CCC; border-width:1px; margin-bottom:5px; max-width: 100%;" allowfullscreen> </iframe> <div style="margin-bottom:5px"> <strong> <a href="//www.slideshare.net/slideshow/jmeter-40006924/40006924" title="JMeter" target="_blank">JMeter</a> </strong> from <strong><a href="//www.slideshare.net/juggenova" target="_blank">JUG Genova</a></strong> </div>
