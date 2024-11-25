@@ -12,7 +12,7 @@ The next meeting of the Genova JUG will take place on the 20th of January 2009 a
 * PDF generation with iText (Massimo Caliman) A discussion of Java Application development issues will follow. 
 
 Participation is free and open to all; if you plan to attend, please register on http://jugevents.jugpadova.it/jugevents/event/show.html?id=9124. Note: If you plan to join us for a pizza in a nearby place, please add "(pizza)" to your last name when registering. To be notified of event updates see 
-* http://www.juggenova.it 
+* https://www.juggenova.it 
 * http://upcoming.yahoo.com/group/3592/ 
 * http://www.jugevents.org (RSS feed). 
 or join our mailing list on 

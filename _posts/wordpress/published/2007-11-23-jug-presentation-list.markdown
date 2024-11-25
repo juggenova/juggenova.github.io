@@ -8,4 +8,4 @@ published: true
 
 As the number of presentations and post being published on the website is increasing,
  we have created an index page that list all the presentations which are available.
- http://juggenova.it/events
+ https://juggenova.it/events
