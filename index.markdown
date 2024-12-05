@@ -5,7 +5,13 @@
 layout: home
 ---
 
-> Stiamo migrando qui i contenuti del vecchio blog juggenova.wordpress.com !
+🗓️ JUG Java User Group Genova Meeting 10/12/2024 18:30 https://juggenova.it
+Evento in presenza.
+👉"Insecure Design tales" 
+🙏Presenta: Andrea Torino Rodriguez : https://www.linkedin.com/in/andrearodriguez/
+
+⚠️La partecipazione in presenza è gratuita e libera, ma è OBBLIGATORIA la registrazione su: https://www.eventbrite.it/e/biglietti-jug-genova-talk-insecure-design-tales-1105331870379
+Come al solito si ringrazia Manydesigns Srl (https://manydesigns.com/) per la location
 
 [english version](index_en.markdown)
 
