@@ -8,6 +8,8 @@ ref: events
 permalink: /events/
 title: Eventi del JUG
 ---
+
+* 13/03/2025 Git Snorkeling [talk slides](talk-slides/git-snorkeling.pdf) (Antonio Chiurla)
 * 10/12/2024 Insecure Design tales [talk slides](talk-slides/jug_2024_insecure_design_tales.pdf) (Andrea Torino Rodriguez)
 * 25/10/2024 Practical Functional Programming in Java [talk slides](talk-slides/jug_2024_functional_programming.pdf) (Fabio Bonfante)
 * 07/06/2024 Introduction to Gradle from build scripts to plugins [talk slides](talk-slides/Gradle_intro_ghezzi_29may24.pdf) (Cristian Ghezzi)
