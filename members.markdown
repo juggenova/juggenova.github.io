@@ -14,4 +14,4 @@ title: JUG members
 * Fabio Bonfante
 * Matias Alberto Ruiz Holgado
 * Dario Bosi
-* [Antonio Chiurla](/members/antoniochiurla)
+* [Antonio Chiurla](/members/antoniochiurla) (coordinatore)
