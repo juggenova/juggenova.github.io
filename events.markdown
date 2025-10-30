@@ -9,6 +9,7 @@ permalink: /events/
 title: Eventi del JUG
 ---
 
+* 27/10/2025 Developing Secure Java EE Applications - From Threats to Best Practices (Part 1)  [talk slides](talk-slides/jug_2025_developing_secure_java_ee_applications_1_introduction.pdf) (Massimo Caliman)
 * 13/03/2025 Git Snorkeling [talk slides](talk-slides/git-snorkeling.pdf) (Antonio Chiurla)
 * 10/12/2024 Insecure Design tales [talk slides](talk-slides/jug_2024_insecure_design_tales.pdf) (Andrea Torino Rodriguez)
 * 25/10/2024 Practical Functional Programming in Java [talk slides](talk-slides/jug_2024_functional_programming.pdf) (Fabio Bonfante)
