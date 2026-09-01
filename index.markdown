@@ -27,6 +27,8 @@ Gli obiettivi del JUG Genova sono:
 
 Il gruppo offre anche un [gruppo di discussione online](https://groups.google.com/g/jug-genova) dove gli appassionati di Java possono scambiarsi opinioni e chiedere consigli. Il gruppo di discussione è un ottimo modo per rimanere aggiornati sulle ultime novità di Java e per conoscere altri sviluppatori Java.
 
+Per informazioni potete scrivere anche al nostro indirizzo mail [info@juggenova.it](info@juggenova.it)
+
 Il gruppo organizza anche eventi sociali, come nerd-pizza, per permettere agli appassionati di Java di conoscersi e divertirsi insieme.
 
 Siamo presenti anche su [Linkedin](https://www.linkedin.com/groups/23810/) e su [github](https://github.com/juggenova) e sul nostro canale  [Telegram](https://t.me/jug_genova) 
