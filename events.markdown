@@ -9,6 +9,7 @@ permalink: /events/
 title: Eventi del JUG
 ---
 
+* 5/10/2026 Come uso l'AI: dalla domanda al compito [talk slides](talk-slides/Come_uso_AI_2026.pdf) (Cristian Ghezzi)
 * 27/10/2025 Developing Secure Java EE Applications - From Threats to Best Practices (Part 1)  [talk slides](talk-slides/jug_2025_developing_secure_java_ee_applications_1_introduction.pdf) (Massimo Caliman)
 * 13/03/2025 Git Snorkeling [talk slides](talk-slides/git-snorkeling.pdf) (Antonio Chiurla)
 * 10/12/2024 Insecure Design tales [talk slides](talk-slides/jug_2024_insecure_design_tales.pdf) (Andrea Torino Rodriguez)
